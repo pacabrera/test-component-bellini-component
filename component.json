@@ -1,0 +1,10 @@
+{
+  "type": "component",
+  "name": "test-component",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "externalScripts": [],
+  "externalStylesheets": []
+}
